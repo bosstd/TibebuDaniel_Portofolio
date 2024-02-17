@@ -1,1 +1,1 @@
-This directory has all the images used in my portofolio.
+This directory has all the images used in my portofolio. 
